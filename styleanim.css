@@ -8,6 +8,8 @@
     }
     body {
     background: #fefefe;
+    transform: scale(0.8); /* Adjust the scale value as needed */
+    transform-origin: top;
     }
     header {
         width: 100%;
