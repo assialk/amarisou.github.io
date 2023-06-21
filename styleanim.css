@@ -132,16 +132,13 @@ h2{
 }
 
 h3{
-    float: right;
-    margin-right: 1300px;
-    margin-left: 20px;
+
     font-family: "archer";
     color: #8f6262;
 }
 
 h4{
-    float: right;
-    margin-right: 1500px;
+
     font-family: "archer";
     color: #8f6262;
 }
